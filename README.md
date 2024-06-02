@@ -10,8 +10,7 @@ https://zszhan.cn/ai/qrcode/mine.jpg
 
 ####SUNO交流群
 <br />
-![Avatar]([https://zszhan.cn/ai/qrcode/suno.jpg])
-
+![Avatar](https://zszhan.cn/ai/qrcode/suno.jpg)
 #### 软件架构
 软件架构说明
 
