@@ -6,7 +6,8 @@ https://chat.xinzhiai.cn/music
 
 ####接口服务请联系 
 <br />
-https://zszhan.cn/ai/qrcode/mine.jpg
+![Avatar](https://zszhan.cn/ai/qrcode/222.jpg)
+
 
 ####SUNO交流群
 <br />
